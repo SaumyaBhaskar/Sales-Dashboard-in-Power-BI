@@ -21,9 +21,13 @@ PROCEDURE:
 RESULT:
 Final dashboard and it's insights are as follows:
 
-[sales dashboard.pdf](https://github.com/user-attachments/files/16144085/sales.dashboard.pdf)
+![image](https://github.com/SaumyaBhaskar/Sales-Dashboard-in-Power-BI/assets/174120166/61f687f1-8f71-4bf2-abed-b9fc46266b4c)
 
-Inights change as we change the zone in the dashboard.
 
-[sales dashboard_1.pdf](https://github.com/user-attachments/files/16144089/sales.dashboard_1.pdf)
+Insights change as we change the zone in the dashboard.
+
+![image](https://github.com/SaumyaBhaskar/Sales-Dashboard-in-Power-BI/assets/174120166/ae1766ed-f01b-4d27-ad7e-96dc5efd12ac)
+
+
+
 
