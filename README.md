@@ -17,8 +17,6 @@ PROCEDURE:
 10. Dashboard Design in Power BI
 11. Forecasting in Power BI
 12. Power BI Sales Forecast
-13. Export Power BI Dashboard
-14. Insights from Dashboard
 
 RESULT:
 Final dashboard and it's insights are as follows:
